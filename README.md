@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @SyauqiAlif776
-- 👀 I’m interested in HTML, CSS, JS, Python, Kotlin
-- 🌱 I’m currently learning in IDN Boarding School
+Hi, My Name is Syauqi Alif Ibrahim
+I'm 15 Years old
+I'm from South Tangerang in Indonesia
+
 
 <!---
 SyauqiAlif776/SyauqiAlif776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
